@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm EJ, a passionate DevOps enthusiast who loves building efficient and scalable infrastructure. I thrive on automating workflows, optimizing cloud deployments, and embracing tools like Kubernetes, Docker, and Terraform. I'm also a developer who enjoys crafting solutions in Python, TypeScript, and Golang, combining clean code with powerful tools to streamline workflows.<br><br><br>
+I’m Elijah, a DevOps professional passionate about building scalable infrastructure and automating workflows. I specialize in cloud optimization and tools like Kubernetes, Docker, and Terraform. Having expertise in Python, TypeScript, and Golang, I create clean, efficient code to streamline processes and deliver impactful solutions.
 
 
 ## 🌐 Socials:
