@@ -1,19 +1,25 @@
-# <div align="center"> Elijah Johnson </div>
+# <div align="center">👾 Elijah Johnson </div>
 
 <div align="center">
 
 [![Systems Engineer | DevOps | Cloud | Kubernetes | Infrastructure Automation](https://img.shields.io/badge/Systems_Engineer_%7C_DevOps_%7C_Cloud_%7C_Kubernetes_%7C_Infrastructure_%7C_Automation-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://elijahjohnson.dev/)
 
 <p><strong>Hey there!</strong> 👋 I'm a passionate Systems Engineer on a mission to automate everything and scale cloud infrastructures efficiently.</p>
+</div>
 
 <br>
-<div align="left">
-<p>⚡ <strong>Currently:</strong> Building production Kubernetes platforms & pursuing CKA certification<br>
-📚 <strong>Learning:</strong> Go, C, and Rust for systems programming<br>
-🎯 <strong>Next:</strong> AI-powered automation tools for government grants</p>
-</div>
 
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<tr>
+<td>
+
+⚡&nbsp;&nbsp;<strong>Currently:</strong> Building production Kubernetes platforms & pursuing CKA certification<br>
+📚&nbsp;&nbsp;<strong>Learning:</strong> Go, C, and Rust for systems programming<br>
+🎯&nbsp;&nbsp;<strong>Next:</strong> AI-powered automation tools for government grants
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,8 +63,6 @@
 ![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ej-east&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ej-east&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ej-east&theme=dark&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF)
 
 </div>
 
