@@ -21,7 +21,7 @@
 </tr>
 </table>
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +54,7 @@
 
 </div>
 
----
+<br>
 
 ## 📈 GitHub Stats
 
@@ -86,6 +86,8 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://elijahjohnson.dev)
 
 </div>
+
+<br>
 
 ---
 
