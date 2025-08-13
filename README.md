@@ -59,11 +59,20 @@
 ## 📈 GitHub Stats
 
 <div align="center">
+<table>
+<tr>
+<td>
 
 ![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ej-east&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
 
+</td>
+<td>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ej-east&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 
+</td>
+</tr>
+</table>
 </div>
 
 
