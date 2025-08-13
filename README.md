@@ -1,4 +1,4 @@
-# <div align="center">👾 Elijah Johnson </div>
+# <div align="center">⚜️ Elijah Johnson ⚜️</div>
 
 <div align="center">
 
