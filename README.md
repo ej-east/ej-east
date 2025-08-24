@@ -63,12 +63,12 @@
 <tr>
 <td>
 
-![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ej-east&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
+![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ej-east&show_icons=true&theme=dark&hide_border=true&bg_color=191724&title_color=ebbcba&icon_color=f6c177&text_color=e0def4)
 
 </td>
 <td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ej-east&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ej-east&layout=compact&theme=dark&hide_border=true&bg_color=191724&title_color=ebbcba&text_color=e0def4)
 
 </td>
 </tr>
