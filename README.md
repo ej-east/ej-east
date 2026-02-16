@@ -1,6 +1,6 @@
 # Hey, I'm EJ
 
-I design and operate cloud platforms in FedRAMP High environments. AWS GovCloud, GCP, Terraform, compliance automation, GitOps-driven Kubernetes. I like building the tooling and automation that makes the hard stuff boring.
+I build cloud platforms and compliance automation in FedRAMP High environments. If it's hard and repetitive, I make it boring.
 
 [![Website](https://img.shields.io/badge/elijahjohnson.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://elijahjohnson.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/this-is-william-johnson/)
@@ -9,9 +9,9 @@ I design and operate cloud platforms in FedRAMP High environments. AWS GovCloud,
 
 ### What I do
 
-- Architect FedRAMP High cloud environments across AWS Commercial, GovCloud, and GCP
+- Take existing cloud infrastructure and make it FedRAMP compliant - Moderate on AWS and GCP, High on GovCloud
 - Build CI/CD pipelines across AWS and GCP that take hour-long manual processes down to ~10 minutes automated
-- Build GitOps pipelines with ArgoCD and ship infrastructure as code at scale
+- Ship infrastructure as code to production with ArgoCD and GitOps workflows
 - If I do it twice, I automate it.
 
 ---
