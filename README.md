@@ -10,7 +10,7 @@ I build cloud platforms and compliance automation in FedRAMP High environments. 
 ### What I do
 
 - Take existing cloud infrastructure and bring it to FedRAMP Moderate/High across AWS, GovCloud, and GCP
-- Build CI/CD pipelines across AWS, GCP, and Azure that take hour-long manual processes down to ~10 minutes automated
+- Build CI/CD pipelines across AWS, GCP, and GovCloud that take hour-long manual processes down to ~10 minutes automated
 - Manage application deployments on EKS using Helm, ECR, and GitOps workflows
 - Building a Kubernetes homelab focused on security and secrets management
 - If I do it twice, I automate it.
