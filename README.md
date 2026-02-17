@@ -43,11 +43,9 @@ I build cloud platforms and compliance automation in FedRAMP High environments. 
 
 **Compliance & Security**
 
-![FedRAMP High](https://img.shields.io/badge/FedRAMP_High-002868?style=for-the-badge&logo=shield&logoColor=white)
-![FedRAMP Moderate](https://img.shields.io/badge/FedRAMP_Moderate-002868?style=for-the-badge&logo=shield&logoColor=white)
+![NIST 800-53](https://img.shields.io/badge/NIST_800--53-002868?style=for-the-badge&logo=nist&logoColor=white)
 ![SOC 2](https://img.shields.io/badge/SOC_2-002868?style=for-the-badge&logo=shield&logoColor=white)
 ![IL4](https://img.shields.io/badge/IL4-002868?style=for-the-badge&logo=shield&logoColor=white)
-![NIST 800-53](https://img.shields.io/badge/NIST_800--53-002868?style=for-the-badge&logo=nist&logoColor=white)
 
 ---
 
